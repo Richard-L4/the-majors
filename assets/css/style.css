@@ -1,14 +1,102 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
 body {
-    font-family: "Inter", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+header {
+    background-color: blueviolet;
 }
 
-h1 {
-    color: green;
+main {
+    background-color: rgb(201, 201, 223);
+    flex: 1 0 auto;
+
 }
 
-p {
-    color: blue;
+.logo {
+    width: 60px;  /* 180px reduced to one-third */
+    height: 60px; /* 180px reduced to one-third */
 }
+
+/* Buttons */
+
+.custom-button-filled {
+    border: 2px solid gold;
+    background-color: green;
+    color: white;
+    width: auto; /* Constrains the button width */
+    display: inline-block;
+}
+
+.custom-button-filled:hover {
+    border: 2px solid gray;
+    background-color:gold;
+    color: black;
+}
+
+/* For a navigation with a specific class */
+.navbar a {
+    color: blue; /* Set the desired color */
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navbar a.active {
+    color: blue !important; /* Set the desired color */
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navbar a:hover {
+    color: white; /* Set hover color */
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+#image {
+    position: relative;
+    height: 700px;
+    width: 100%;
+    background: url('../images/Golf\ Card\ Game.jpg') no-repeat center center/cover;
+    opacity: 0.9;
+}
+
+
+footer {
+    background-color: burlywood;
+    height: 70px;
+}
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: maroon;
+}
+
+
+
