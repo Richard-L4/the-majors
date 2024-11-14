@@ -13,23 +13,26 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
+    justify-content: space-evenly;
     color:aqua;
     font-family: 'Courier New', Courier, monospace;
 }
+
 header {
     background-color: blueviolet;
 }
 
 main {
     background-color: rgb(201, 201, 223);
+    display: flex;
     flex: 1 0 auto;
-
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {
-    width: 60px;  /* 180px reduced to one-third */
-    height: 60px; /* 180px reduced to one-third */
+    width: 60px;  
+    height: 60px;
 }
 
 /* Buttons */
@@ -38,7 +41,7 @@ main {
     border: 2px solid gold;
     background-color: green;
     color: white;
-    width: auto; /* Constrains the button width */
+    width: auto; 
     display: inline-block;
 }
 
@@ -50,38 +53,33 @@ main {
 
 /* For a navigation with a specific class */
 .navbar a {
-    color: blue; /* Set the desired color */
+    color: blue; 
     font-weight: bold;
     font-size: 25px;
 }
 
 .navbar a.active {
-    color: blue !important; /* Set the desired color */
+    color: blue !important; 
     text-decoration: underline;
     font-weight: bold;
     font-size: 25px;
 }
 
 .navbar a:hover {
-    color: white; /* Set hover color */
+    color: white; 
     font-weight: bold;
     font-size: 20px;
 }
 
-
-#image {
-    position: relative;
-    height: 700px;
+.background {
+    background: url('../images/st-andrews-swilcan-bridge-old-course-73931056.jpg') center/cover no-repeat;
     width: 100%;
-    background: url('../images/Golf\ Card\ Game.jpg') no-repeat center center/cover;
+    height: 698px;  
     opacity: 0.9;
 }
 
 
-footer {
-    background-color: burlywood;
-    height: 70px;
-}
+
 
 /* Footer */
 #social-networks {
@@ -97,6 +95,14 @@ footer {
     padding: 5%;
     color: maroon;
 }
+
+@media (min-width: 996px) {
+    #founders h1 {
+        margin-top: 4rem; /* Adjust value as needed */
+        padding-top: 1rem; /* Optional: add more space */
+    }
+}
+
 
 
 
