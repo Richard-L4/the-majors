@@ -78,6 +78,63 @@ main {
     opacity: 0.9;
 }
 
+.championships-page #founders h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-weight: bold;
+}
+.championships-page #founders .photo-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+.championships-page #founders .photo-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+.history-page #founders h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color:brown;
+    font-weight: bold;
+}
+.history-page #founders .photo-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+}
+.history-page #founders .photo-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+
+.enquiry-page #enquiry h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
+.form-label {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.custom-button-outline {
+    border: 2px solid #00509e; /* Outline color */
+    background-color: transparent; /* Transparent background */
+    color: #00509e; /* Text color */
+    padding: 10px 20px; /* Button padding */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1rem; /* Font size */
+    cursor: pointer; /* Pointer on hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+/* Hover effect */
+.custom-button-outline:hover {
+    background-color: #00509e; /* Background color on hover */
+    color: #ffffff; /* Text color on hover */
+}
+
+.custom-button-outline {
+    margin-top: 20px; /* Adds space above the button */
+    margin-bottom: 5px;
+}
 
 
 
