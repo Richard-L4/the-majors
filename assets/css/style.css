@@ -46,7 +46,7 @@ main {
     color: black;
 }
 
-/* For a navigation with a specific class */
+
 .navbar a {
     color: blue; 
     font-weight: bold;
@@ -76,6 +76,15 @@ main {
     
 }
 
+/* Text styling */
+.center-text {
+    position: absolute; /* Position it over the image */
+    text-align: center; /* Center text horizontally */
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold; 
+    color: brown;
+}
 
 .championships-page #founders h1 {
     font-family: 'Courier New', Courier, monospace;
@@ -112,30 +121,31 @@ main {
 .form-label {
     font-family: 'Courier New', Courier, monospace;
     color: black;
+    font-weight: bold;
 }
 
 .success-page #social-networks {
     background-color: aquamarine;
 }
 .custom-button-outline {
-    border: 2px solid #00509e; /* Outline color */
-    background-color: transparent; /* Transparent background */
-    color: #00509e; /* Text color */
-    padding: 10px 20px; /* Button padding */
-    border-radius: 5px; /* Rounded corners */
-    font-size: 1rem; /* Font size */
-    cursor: pointer; /* Pointer on hover */
-    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+    border: 2px solid #00509e; 
+    background-color: transparent; 
+    color: #00509e; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    font-size: 1rem; 
+    cursor: pointer; 
+    transition: background-color 0.3s, color 0.3s; 
 }
 
 /* Hover effect */
 .custom-button-outline:hover {
-    background-color: #00509e; /* Background color on hover */
-    color: #ffffff; /* Text color on hover */
+    background-color: #00509e; 
+    color: #ffffff; 
 }
 
 .custom-button-outline {
-    margin-top: 20px; /* Adds space above the button */
+    margin-top: 20px; 
     margin-bottom: 5px;
 }
 
@@ -158,8 +168,8 @@ main {
 
 @media (min-width: 996px) {
     #founders h1 {
-        margin-top: 4rem; /* Adjust value as needed */
-        padding-top: 1rem; /* Optional: add more space */
+        margin-top: 4rem; 
+        padding-top: 1rem; 
     }
 }
 
