@@ -33,7 +33,8 @@ Describe the testing methods and results.
 Explain how to deploy the project or any deployment details.
 
 ## Credits
-Give credit to any contributors or resources used.
+During this project I used Bootstrap to provide several code blocks as a base template.
+[Bootstrap](https://getbootstrap.com/)
 
 ## Content
 List or describe the content in the project.
