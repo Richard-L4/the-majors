@@ -23,8 +23,9 @@ Discuss future improvements or plans for the project.
 ## Technology Used
 - HTML
 - CSS
-- JavaScript
-  <!-- Add other technologies here -->
+- [HTML Validator](https://validator.w3.org/)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- Lighthouse.
 
 ## Testing
 Describe the testing methods and results.
