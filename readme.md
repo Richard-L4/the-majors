@@ -31,14 +31,12 @@ Discuss future improvements or plans for the project.
 Describe the testing methods and results.
 
 ## Deployment
-- To deploy my project I used GitHub pages by commiting and pushing the project from Gitpod to GitHub pages.
-- [GitHub](https://github.com/)
+- To deploy my project I used [GitHub](https://github.com/) pages by commiting and pushing the project from Gitpod to GitHub pages.
 
 ## Credits
-- During this project I used Bootstrap to provide several code blocks as a base template.
-- [Bootstrap](https://getbootstrap.com/)
-- All of the images used have come from getty images. 
-- [getty images](https://www.gettyimages.co.uk/)
+- During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
+- All of the images used have come from [getty images](https://www.gettyimages.co.uk/). 
+
 
 ## Content
 List or describe the content in the project.
