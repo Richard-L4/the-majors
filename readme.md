@@ -11,10 +11,15 @@ Describe the user experience of your project.
 
 ## Design
 - I initaly used Balsamiq to creat a skeleton idea for each page of the site.
+- This wireframe is of the "Home" index.html page.
 - ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
+- This wireframe is of the "Championships" championships.html page.
 - ![New Wireframe2](/assets/images/New%20Wireframe%202.png)
+- This wireframe is of the "History" history.html page.
 - ![New Wireframe3](/assets/images/New%20Wireframe%203.png)
+- This wireframe is of the "Enquiry" enquiry.html page.
 - ![New Wireframe4](/assets/images/New%20Wireframe%204.png)
+- This wireframe is of the "Success" success.html page.
 - ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
 
 ## Features
