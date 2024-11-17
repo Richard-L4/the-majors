@@ -1,0 +1,43 @@
+# The Majors
+![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-15%20211628.png)
+
+Project description goes here.
+
+## Introduction
+Provide an introduction to your project here.
+
+## User Experience
+Describe the user experience of your project.
+
+## Design
+Explain the design choices made in the project.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Future
+Discuss future improvements or plans for the project.
+
+## Technology Used
+- HTML
+- CSS
+- JavaScript
+  <!-- Add other technologies here -->
+
+## Testing
+Describe the testing methods and results.
+
+## Deployment
+Explain how to deploy the project or any deployment details.
+
+## Credits
+Give credit to any contributors or resources used.
+
+## Content
+List or describe the content in the project.
+
+---
+
+&copy; 2024 Your Name
