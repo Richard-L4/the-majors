@@ -1,7 +1,6 @@
 # The Majors
+## In the world of Golf there are four 'Major' tourenaments each year that every golfer who is eligable to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won.
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-15%20211628.png)
-
-Project description goes here.
 
 ## Introduction
 Provide an introduction to your project here.
