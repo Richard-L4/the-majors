@@ -10,12 +10,17 @@ Provide an introduction to your project here.
 Describe the user experience of your project.
 
 ## Design
-Explain the design choices made in the project.
+- I initaly used Balsamiq to creat a skeleton idea for each page of the site.
+- ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
+- ![New Wireframe2](/assets/images/New%20Wireframe%202.png)
+- ![New Wireframe3](/assets/images/New%20Wireframe%203.png)
+- ![New Wireframe4](/assets/images/New%20Wireframe%204.png)
+- ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- I designed the site to have individual pages to creat a cleaner, clearer user experience including a seperate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
+- The "Enquiry" page has a custom button with a hover feature to reasure the user that that is how to submit their details and the message they wish to send.
+- I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
 
 ## Future
 Discuss future improvements or plans for the project.
@@ -28,7 +33,10 @@ Discuss future improvements or plans for the project.
 - Lighthouse.
 
 ## Testing
-Describe the testing methods and results.
+- I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
+- I later tested the site for usability on my own personal phone as well as my own I pad to simluate different screen sizes in a 'real world' environment.
+- As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
+- Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
 
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by commiting and pushing the project from Gitpod to GitHub pages.
@@ -41,6 +49,4 @@ Describe the testing methods and results.
 ## Content
 List or describe the content in the project.
 
----
 
-&copy; 2024 Your Name
