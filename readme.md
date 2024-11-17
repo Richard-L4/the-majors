@@ -31,7 +31,7 @@ Discuss future improvements or plans for the project.
 Describe the testing methods and results.
 
 ## Deployment
-Explain how to deploy the project or any deployment details.
+[GitHub](https://github.com/)
 
 ## Credits
 During this project I used Bootstrap to provide several code blocks as a base template.
