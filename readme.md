@@ -50,6 +50,31 @@ In the future I would like to add more pages, giving far more detail of the game
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
 - Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
 
+## Validation
+- I used HTML and CSS validate.
+- HTML validate
+- Home (index) page
+- ![Home](/assets/images/Screenshot%202024-11-16%20171702.png)
+- Championships page
+- ![Championships](/assets/images/Screenshot%202024-11-16%20171016.png)
+- History page
+- ![History](/assets/images/Screenshot%202024-11-16%20171107.png)
+- Enquiry page
+- ![Enquiry](/assets/images/Screenshot%202024-11-16%20135222.png)
+- CSS page
+- ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
+
+- Lighthouse assements
+- Home page
+- ![Home](/assets/images/Screenshot%202024-11-16%20113200.png)
+- Championships page
+- ![Championships](/assets/images/Screenshot%202024-11-16%20113256.png)
+- History page
+- ![History](/assets/images/Screenshot%202024-11-16%20113340.png)
+- Enquiry page
+- ![Enquiry](/assets/images/Screenshot%202024-11-16%20113518.png)
+- Success page
+- ![success](/assets/images/Screenshot%202024-11-16%20113518.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by commiting and pushing the project from Gitpod to GitHub pages.
 
