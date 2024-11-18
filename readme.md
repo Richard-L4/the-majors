@@ -1,20 +1,20 @@
 # The Majors
- In the world of Golf there are four 'Major' tourenaments each year that every golfer who is eligable to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the plaace where of all the venues where the Open championship is held a player most wants to win.
+ In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-15%20211628.png)
 
 ## Introduction
-- I wanted to creat a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the sport, an overview. 
+- I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the sport, an overview. 
 - It is designed to provide a very base oversight of the big championships that are held each year, where they are held, and the dates.
 - A brief history of the two golfers who are widely acknowledged as the founding fathers of the game.
 - The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
 
 ## User Experience
-- My aim was to creat a clean, crisp website that is easy to use, presents the information in a short, concise manner.
+- My aim was to create a clean, crisp website that is easy to use, presents the information in a short, concise manner.
 - On all pages the user can easily navigate to any part of the site they want to.
 - I was keen that even on a small screen the information is presented well.
 
 ## Design
-- I initaly used Balsamiq to creat a skeleton idea for each page of the site.
+- I initaly used Balsamiq to create a skeleton idea for each page of the site.
 - This wireframe is of the "Home" index.html page.
 - ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
 - This wireframe is of the "History" history.html page.
@@ -27,7 +27,7 @@
 - ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
 
 ## Content
-List or describe the content in the project.
+Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
 - ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
@@ -41,10 +41,14 @@ List or describe the content in the project.
 - Success page conent
 - ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 
+## Development 
+During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
+- 
 ## Features
-- I designed the site to have individual pages to creat a cleaner, clearer user experience including a seperate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
-- The "Enquiry" page has a custom button with a hover feature to reasure the user that that is how to submit their details and the message they wish to send.
+- I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
+- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send.
 - I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
+
 
 ## Future
 In the future I would like to add more pages, giving far more detail of the game of golf and it's history, it's champions, both male and female with video clips of the very best at their best with a comprehensive frequently asked questions section.
