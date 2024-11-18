@@ -30,33 +30,43 @@
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
-- - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfer with any of the image as the page is scrolled down.
+    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfer with any of the image as the page is scrolled down.
+
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
+
  ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Championship page content
     -  Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
+
  ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
 - History page content
     -  The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
     -  The middle image, the trophy itslelf. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
+
  ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
 - Enquiry page content
     -  The site at present is not designed to get the user in contact with any organization in particular, it just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
+
  ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
 - Success page conent
     -  From my own personal experiences on many websites, it is always reasurrring to get instant feedback that the message / commitment that you have just made has been successful.
     -  The use of the two images is to give the page a little bit of extra color and life, being the same image on both sides, here i feel works well to balance the page.
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
+
  ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
-- 
+    - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
+    - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
+    - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
+    - My secound challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colors to 'sit' / sync well together.
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
-- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send.
+    - The Enquiry tab itself changes colour on hover to gold. This along with the tab that is highlighted to indicate to the user which page they are currently on was chosen as it is the 'gold medal' that the players are competing for, and I thought the colour contrast worked well on all pages to distinguish location.
+- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send. This button is just a simple hover desing to aid the user with a colour that I thought works well.
 - I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
 
 
