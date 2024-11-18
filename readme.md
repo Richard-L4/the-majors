@@ -30,16 +30,25 @@
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
+- - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfer with any of the image as the page is scrolled down.
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
+- - The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
  ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Championship page content
+- - Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
  ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
 - History page content
+- - The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
+- - The middle image, the trophy itslelf. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
  ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
 - Enquiry page content
+- - The site at present is not designed to get the user in contact with any organization in particular, it just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
  ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
 - Success page conent
+- - From my own personal experiences on many websites, it is always reasurrring to get instant feedback that the message / commitment that you have just made has been successful.
+- - The use of the two images is to give the page a little bit of extra color and life, being the same image on both sides, here i feel works well to balance the page.
+- - The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
  ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 
 ## Development 
