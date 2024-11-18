@@ -28,6 +28,18 @@
 
 ## Content
 List or describe the content in the project.
+- Nav bar
+- ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
+- Logo
+- ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
+- Championship page content
+- ![championship](/assets/images/Screenshot%202024-11-18%20113610.png)
+- History page content
+- ![history](/assets/images/Screenshot%202024-11-18%20113632.png)
+- Enquiry page content
+- ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
+- Success page conent
+- ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 
 ## Features
 - I designed the site to have individual pages to creat a cleaner, clearer user experience including a seperate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
@@ -61,6 +73,8 @@ In the future I would like to add more pages, giving far more detail of the game
 - ![History](/assets/images/Screenshot%202024-11-16%20171107.png)
 - Enquiry page
 - ![Enquiry](/assets/images/Screenshot%202024-11-16%20135222.png)
+- Succes page
+- ![sucess](/assets/images/Screenshot%202024-11-16%20171905.png)
 - CSS page
 - ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
 
