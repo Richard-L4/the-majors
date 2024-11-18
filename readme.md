@@ -1,4 +1,5 @@
 # The Majors
+[The Majors Project](https://richard-l4.github.io/the-majors/)
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-15%20211628.png)
 
@@ -100,6 +101,6 @@ In the future I would like to add more pages, giving far more detail of the game
 - During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
 - All of the images used have come from [getty images](https://www.gettyimages.co.uk/). 
 
-
+[Back to the top](#the-majors)
 
 
