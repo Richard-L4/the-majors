@@ -29,20 +29,20 @@
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
-- ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
+![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
-- ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
+ ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Championship page content
-- ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
+ ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
 - History page content
-- ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
+ ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
 - Enquiry page content
-- ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
+ ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
 - Success page conent
-- ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
+ ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 
 ## Development 
-During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
+- During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
 - 
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
