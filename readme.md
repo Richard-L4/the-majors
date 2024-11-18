@@ -105,13 +105,13 @@ In the future I would like to add more pages, giving far more detail of the game
 - Lighthouse assements
     - Home page
  ![Home](/assets/images/Screenshot%202024-11-16%20113200.png)
-- Championships page
+    - Championships page
  ![Championships](/assets/images/Screenshot%202024-11-16%20113256.png)
-- History page
+    - History page
  ![History](/assets/images/Screenshot%202024-11-16%20113340.png)
-- Enquiry page
+    - Enquiry page
  ![Enquiry](/assets/images/Screenshot%202024-11-16%20113518.png)
-- Success page
+    - Success page
  ![success](/assets/images/Screenshot%202024-11-16%20113518.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by commiting and pushing the project from Gitpod to GitHub pages.
