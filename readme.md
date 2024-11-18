@@ -13,7 +13,7 @@
 - My aim was to create a clean, crisp website that is easy to use, presents the information in a short, concise manner.
 - On all pages the user can easily navigate to any part of the site they want to.
 - I was keen that even on a small screen the information is presented well.
-
+[Back to the top](#the-majors)
 ## Design
 - I initaly used Balsamiq to create a skeleton idea for each page of the site.
 - This wireframe is of the "Home" index.html page.
@@ -26,7 +26,7 @@
 - ![New Wireframe4](/assets/images/New%20Wireframe%204.png)
 - This wireframe is of the "Success" success.html page.
 - ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
-
+[Back to the top](#the-majors)
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
@@ -56,37 +56,38 @@ Here is a list of all the content in the project with detailed descriptions as t
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
  ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
-
+[Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
     - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
     - My secound challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colors to 'sit' / sync well together.
-    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommited otherwise the image would not load) could be resolved with a '20%' syntax to subsitute for the 'space'. 
+    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommited otherwise the image would not load) could be resolved with a '20%' syntax to subsitute for the 'space'.
+[Back to the top](#the-majors) 
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
     - The Enquiry tab itself changes colour on hover to gold. This along with the tab that is highlighted to indicate to the user which page they are currently on was chosen as it is the 'gold medal' that the players are competing for, and I thought the colour contrast worked well on all pages to distinguish location.
 - The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send. This button is just a simple hover desing to aid the user with a colour that I thought works well.
 - I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
-
+[Back to the top](#the-majors)
 
 ## Future
 In the future I would like to add more pages, giving far more detail of the game of golf and it's history, it's champions, both male and female with video clips of the very best at their best with a comprehensive frequently asked questions section.
-
+[Back to the top](#the-majors)
 ## Technology Used
 - HTML
 - CSS
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - Lighthouse.
-
+[Back to the top](#the-majors)
 ## Testing
 - I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
 - I later tested the site for usability on my own personal phone as well as my own I pad to simluate different screen sizes in a 'real world' environment.
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
 - Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
-
+[Back to the top](#the-majors)
 ## Validation
 - I used HTML and CSS validate.
 - HTML validate
