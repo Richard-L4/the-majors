@@ -33,9 +33,9 @@ List or describe the content in the project.
 - Logo
 - ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Championship page content
-- ![championship](/assets/images/Screenshot%202024-11-18%20113610.png)
+- ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
 - History page content
-- ![history](/assets/images/Screenshot%202024-11-18%20113632.png)
+- ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
 - Enquiry page content
 - ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
 - Success page conent
