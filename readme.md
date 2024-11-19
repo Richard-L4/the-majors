@@ -112,7 +112,7 @@ In the future I would like to add more pages, giving far more detail of the game
  ![Enquiry](/assets/images/Screenshot%202024-11-19%20152750.png)
    - Success page
  ![success](/assets/images/Screenshot%202024-11-19%20152930.png)
-   - CSS page
+- CSS Validate
  ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
 
 - Lighthouse assements
