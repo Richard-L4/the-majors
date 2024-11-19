@@ -38,7 +38,9 @@ Here is a list of all the content in the project with detailed descriptions as t
     - rgb(89, 128, 150)
     - rgb(201, 201, 233)
     - #00509e
-
+- Typeography
+   - 'Dancing Script'
+   - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style that reflexed the backdrop of the image and what the image represents. The Old Course is in the ancient cathedral city of St Andrews Fife in Scotland which I felt warranted an old fashioned style of writting, caligraphy and 'Dancing Script' fitted that perfectly.
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
@@ -112,7 +114,7 @@ In the future I would like to add more pages, giving far more detail of the game
  ![Enquiry](/assets/images/Screenshot%202024-11-19%20152750.png)
    - Success page
  ![success](/assets/images/Screenshot%202024-11-19%20152930.png)
-- CSS Validate
+ - CSS Validate
  ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
 
 - Lighthouse assements
