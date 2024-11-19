@@ -10,9 +10,10 @@
 - The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
 
 ## User Experience
-- My aim was to create a clean, crisp website that is easy to use, presents the information in a short, concise manner.
+- My aim was to create a clean, crisp front end website that is easy to use, presents the information in a short, concise manner.
 - On all pages the user can easily navigate to any part of the site they want to.
 - I was keen that even on a small screen the information is presented well, it's not 'overpowering' with too many colours, images and text all in a small space obscuring the users view.
+- As a user friendly design users will feel comfortable to return to the site time and time again.
 [Back to the top](#the-majors)
 ## Design
 - I initally used Balsamiq to create a skeleton idea for each page of the site.
@@ -31,7 +32,12 @@
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
     - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
-
+    - In the nav bar image below are the main colours that have been used throughout the site.
+    - Solid Gray
+    - Gold
+    - rgb(89, 128, 150)
+    - rgb(201, 201, 233)
+    - #00509e
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
