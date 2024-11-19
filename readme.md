@@ -32,7 +32,7 @@
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
     - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
-    - In the nav bar image below are the main colours that have been used throughout the site.
+- In the nav bar image below are the main colours that have been used throughout the site.
     - Solid Gray
     - Gold
     - rgb(89, 128, 150)
