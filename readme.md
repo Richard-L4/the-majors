@@ -42,7 +42,7 @@ Here is a list of all the content in the project with detailed descriptions as t
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Typeography
 
-- Headline home page
+- Headline home page (index.html)
 
          Golf
       The Majors
