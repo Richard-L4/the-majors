@@ -42,6 +42,8 @@ Here is a list of all the content in the project with detailed descriptions as t
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
+    
+ ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Favicon Icon
    - The favicon icon is of Jack Nicklaus 
    ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
