@@ -42,11 +42,12 @@ Here is a list of all the content in the project with detailed descriptions as t
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Typeography
 
-- Headline home page (index.html)
+- Headline home page
 
-      Golf, The Majors
+         Golf
+      The Majors
 
-   - 'Dancing Script'
+   - 'Dancing Script' (font-family)
 
    - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style that reflexed the backdrop of the image and what the image represents. The Old Course is in the ancient cathedral city of St Andrews Fife in Scotland which I felt warranted an old fashioned style of writting, caligraphy and 'Dancing Script' fitted that perfectly.
 - Logo
