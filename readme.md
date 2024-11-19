@@ -102,18 +102,18 @@ In the future I would like to add more pages, giving far more detail of the game
 ## Validation
 - I used HTML and CSS validate.
 - HTML validate
-- Home (index) page
-- ![Home](/assets/images/Screenshot%202024-11-19%20153009.png)
-- Championships page
-- ![Championships](/assets/images/Screenshot%202024-11-19%20152840.png)
-- History page
-- ![History](/assets/images/Screenshot%202024-11-19%20152713.png)
-- Enquiry page
-- ![Enquiry](/assets/images/Screenshot%202024-11-19%20152750.png)
-- Success page
-- ![success](/assets/images/Screenshot%202024-11-19%20152930.png)
-- CSS page
-- ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
+   - Home (index) page
+ ![Home](/assets/images/Screenshot%202024-11-19%20153009.png)
+   - Championships page
+ ![Championships](/assets/images/Screenshot%202024-11-19%20152840.png)
+   - History page
+ ![History](/assets/images/Screenshot%202024-11-19%20152713.png)
+   - Enquiry page
+ ![Enquiry](/assets/images/Screenshot%202024-11-19%20152750.png)
+   - Success page
+ ![success](/assets/images/Screenshot%202024-11-19%20152930.png)
+   - CSS page
+ ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
 
 - Lighthouse assements
     - Home page
