@@ -48,7 +48,6 @@ Here is a list of all the content in the project with detailed descriptions as t
    - The favicon icon is of Jack Nicklaus 
    ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
 
- ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Championship page content
     -  Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
 
