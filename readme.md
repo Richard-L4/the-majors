@@ -40,7 +40,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - #00509e
 
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
-- Typeography
+- Typography
 
 - Headline home page (index.html)
 
@@ -79,12 +79,13 @@ Here is a list of all the content in the project with detailed descriptions as t
  ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
 [Back to the top](#the-majors)
 ## Development 
-- During the project my ideas changed several times as to how to structure it and the conent and styling to use. Below are challenges I faced and the reasons as to the decisions that were made.
+- During the project my ideas changed several times as to how to structure it and the conent and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
     - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
     - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
     - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommitted otherwise the image would not load) could be resolved with a '20%' syntax to substitute for the 'space'.
+    - It also is to be noted that the readme file itself has taken many additions and minor to moderate edits as I thought of other things that I felt needed to be added, and trial and error to get the layout to look as good as I thought it could be.
 [Back to the top](#the-majors) 
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
