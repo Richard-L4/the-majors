@@ -12,10 +12,10 @@
 ## User Experience
 - My aim was to create a clean, crisp website that is easy to use, presents the information in a short, concise manner.
 - On all pages the user can easily navigate to any part of the site they want to.
-- I was keen that even on a small screen the information is presented well.
+- I was keen that even on a small screen the information is presented well, it's not 'overpowering' with too many colours, images and text all in a small space obscuring the users view.
 [Back to the top](#the-majors)
 ## Design
-- I initaly used Balsamiq to create a skeleton idea for each page of the site.
+- I initally used Balsamiq to create a skeleton idea for each page of the site.
 - This wireframe is of the "Home" index.html page.
 - ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
 - This wireframe is of the "History" history.html page.
@@ -30,7 +30,7 @@
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
 - Nav bar
-    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfer with any of the image as the page is scrolled down.
+    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
 
 ![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
 - Logo
@@ -43,7 +43,7 @@ Here is a list of all the content in the project with detailed descriptions as t
  ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
 - History page content
     -  The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
-    -  The middle image, the trophy itslelf. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
+    -  The middle image, the trophy itself. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
 
  ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
 - Enquiry page content
@@ -51,8 +51,8 @@ Here is a list of all the content in the project with detailed descriptions as t
 
  ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
 - Success page conent
-    -  From my own personal experiences on many websites, it is always reasurrring to get instant feedback that the message / commitment that you have just made has been successful.
-    -  The use of the two images is to give the page a little bit of extra color and life, being the same image on both sides, here i feel works well to balance the page.
+    -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
+    -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
  ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
@@ -62,13 +62,13 @@ Here is a list of all the content in the project with detailed descriptions as t
     - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
-    - My secound challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colors to 'sit' / sync well together.
-    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommited otherwise the image would not load) could be resolved with a '20%' syntax to subsitute for the 'space'.
+    - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
+    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommitted otherwise the image would not load) could be resolved with a '20%' syntax to substitute for the 'space'.
 [Back to the top](#the-majors) 
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
     - The Enquiry tab itself changes colour on hover to gold. This along with the tab that is highlighted to indicate to the user which page they are currently on was chosen as it is the 'gold medal' that the players are competing for, and I thought the colour contrast worked well on all pages to distinguish location.
-- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send. This button is just a simple hover desing to aid the user with a colour that I thought works well.
+- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send. This button is just a simple hover design to aid the user with a colour that I thought works well.
 - I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
 [Back to the top](#the-majors)
 
@@ -84,7 +84,7 @@ In the future I would like to add more pages, giving far more detail of the game
 [Back to the top](#the-majors)
 ## Testing
 - I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
-- I later tested the site for usability on my own personal phone as well as my own I pad to simluate different screen sizes in a 'real world' environment.
+- I later tested the site for usability on my own personal phone as well as my own I pad to simulate different screen sizes in a 'real world' environment.
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
 - Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
 [Back to the top](#the-majors)
@@ -99,8 +99,8 @@ In the future I would like to add more pages, giving far more detail of the game
 - ![History](/assets/images/Screenshot%202024-11-16%20171107.png)
 - Enquiry page
 - ![Enquiry](/assets/images/Screenshot%202024-11-16%20135222.png)
-- Succes page
-- ![sucess](/assets/images/Screenshot%202024-11-16%20171905.png)
+- Success page
+- ![success](/assets/images/Screenshot%202024-11-16%20171905.png)
 - CSS page
 - ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
 
@@ -116,7 +116,7 @@ In the future I would like to add more pages, giving far more detail of the game
     - Success page
  ![success](/assets/images/Screenshot%202024-11-16%20113518.png)
 ## Deployment
-- To deploy my project I used [GitHub](https://github.com/) pages by commiting and pushing the project from Gitpod to GitHub pages.
+- To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 
 ## Credits
 - During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
