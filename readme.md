@@ -103,6 +103,7 @@ In the future I would like to add more pages, giving far more detail of the game
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - Lighthouse.
+- Chat GPT for minor bug fixes.
 [Back to the top](#the-majors)
 ## Testing
 - I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
