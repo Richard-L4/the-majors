@@ -39,7 +39,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - rgb(201, 201, 233)
     - #00509e
 
-![nav bar](/assets/images/Screenshot%202024-11-18%20113544.png)
+![nav bar](/assets/images/Screenshot%202024-11-26%20183808.png)
 - Typography
 
 - Headline home page (index.html)
@@ -61,22 +61,22 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Championship page content
     -  Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
 
- ![championship](/assets/images/Screenshot%202024-11-18%20113632.png)
+ ![championship](/assets/images/Screenshot%202024-11-26%20184329.png)
 - History page content
     -  The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
     -  The middle image, the trophy itself. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
 
- ![history](/assets/images/Screenshot%202024-11-18%20113713.png)
+ ![history](/assets/images/Screenshot%202024-11-26%20184356.png)
 - Enquiry page content
     -  The site at present is not designed to get the user in contact with any organization in particular, it just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
 
- ![enquiry](/assets/images/Screenshot%202024-11-18%20113745.png)
+ ![enquiry](/assets/images/Screenshot%202024-11-26%20183707.png)
 - Success page conent
     -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
     -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
- ![success](/assets/images/Screenshot%202024-11-18%20113840.png)
+ ![success](/assets/images/Screenshot%202024-11-26%20183735.png)
 [Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the conent and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
@@ -115,29 +115,29 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used HTML and CSS validate.
 - HTML validate
    - Home (index) page
- ![Home](/assets/images/Screenshot%202024-11-19%20153009.png)
+ ![Home](/assets/images/Screenshot%202024-11-26%20180454.png)
    - Championships page
- ![Championships](/assets/images/Screenshot%202024-11-19%20152840.png)
+ ![Championships](/assets/images/Screenshot%202024-11-26%20180227.png)
    - History page
- ![History](/assets/images/Screenshot%202024-11-19%20152713.png)
+ ![History](/assets/images/Screenshot%202024-11-26%20180411.png)
    - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-19%20152750.png)
+ ![Enquiry](/assets/images/Screenshot%202024-11-26%20180322.png)
    - Success page
- ![success](/assets/images/Screenshot%202024-11-19%20152930.png)
+ ![success](/assets/images/Screenshot%202024-11-26%20180548.png)
  - CSS Validate
- ![CSS](/assets/images/Screenshot%202024-11-16%20135305.png)
+ ![CSS](/assets/images/Screenshot%202024-11-26%20180130.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Screenshot%202024-11-16%20113200.png)
+ ![Home](/assets/images/Screenshot%202024-11-26%20180854.png)
     - Championships page
- ![Championships](/assets/images/Screenshot%202024-11-16%20113256.png)
+ ![Championships](/assets/images/Screenshot%202024-11-26%20181050.png)
     - History page
- ![History](/assets/images/Screenshot%202024-11-16%20113340.png)
+ ![History](/assets/images/Screenshot%202024-11-26%20181124.png)
     - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-16%20113518.png)
+ ![Enquiry](/assets/images/Screenshot%202024-11-26%20181203.png)
     - Success page
- ![success](/assets/images/Screenshot%202024-11-16%20113518.png)
+ ![success](/assets/images/Screenshot%202024-11-26%20181304.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 
