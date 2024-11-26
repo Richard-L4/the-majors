@@ -109,6 +109,7 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
 - I later tested the site for usability on my own personal phone as well as my own I pad to simulate different screen sizes in a 'real world' environment.
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
+- I used my project as an example for my fellow students to see, with some feedback from our facilitator.
 - Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
 [Back to the top](#the-majors)
 ## Validation
