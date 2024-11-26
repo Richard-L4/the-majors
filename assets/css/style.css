@@ -87,7 +87,7 @@ main {
     /* Center text horizontally */
     text-align: center; 
     font-size: 80px;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Courier', 'Courier New', Courier, monospace;
     font-weight: bold; 
     color: brown;
 }
