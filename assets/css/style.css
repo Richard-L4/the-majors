@@ -33,7 +33,6 @@ main {
 /* Buttons */
 
 .custom-button-filled {
-    border: 4px solid gray;
     background-color: green;
     color: white;
     width: auto; 
@@ -48,7 +47,7 @@ main {
 
 
 .navbar a {
-    color: brown; 
+    color: rgb(229, 235, 239); 
     font-weight: bold;
     font-size: 25px;
     background-color: rgb(89, 128, 150);
@@ -74,9 +73,9 @@ main {
 /* background image for index.html (home) page */
 
 .background {
-    background: url('../images/st-andrews-swilcan-bridge-old-course-73931056.jpg') center/cover no-repeat;
+    background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
     width: 100%;
-    height: 698px;  
+    height: 100vh;  
     opacity: 0.9;
     
 }
@@ -122,9 +121,9 @@ main {
 }
 /* Enquiry page */
 .enquiry-page {
-    background: url('../images/st-andrews-swilcan-bridge-old-course-73931056.jpg') center/cover no-repeat;
+    background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
     width: 100%;
-    height: 850px;  
+    height: 100vh;  
     opacity: 0.9;
 }
 .enquiry-page #enquiry h1 {
@@ -139,11 +138,11 @@ main {
 }
 /* Success page */
 .success-page #social-networks {
-    background-color: rgb(89, 128, 150);
+    background-color: rosybrown;
 }
 .custom-button-outline {
     border: 2px solid #00509e; 
-    background-color: transparent; 
+    background-color: aliceblue; 
     color: #00509e; 
     padding: 10px 20px; 
     border-radius: 5px; 
@@ -178,7 +177,22 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: maroon;
+}
+/* Specific platform colors */
+#social-networks .facebook i {
+    color: #4267B2; /* Facebook blue */
+}
+
+#social-networks .twitter i {
+    color: #1DA1F2; /* Twitter blue */
+}
+
+#social-networks .youtube i {
+    color: #FF0000; /* YouTube red */
+}
+
+#social-networks .instagram i {
+    color: #E4405F; /* Instagram orange */
 }
 
 
