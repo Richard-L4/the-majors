@@ -29,15 +29,19 @@
 - ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
 [Back to the top](#the-majors)
 ## Content
-Here is a list of all the content in the project with detailed descriptions as to what has been done and why.
+Here is a list of all the content in the project with detailed descriptions as to what has been done and why. To note, although the language in the base HTML is 'lang="en"' (English) if I try to type "colour" I get a syntax warning of a red line under the word.
 - Nav bar
     - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
 - In the nav bar image below are the main colours that have been used throughout the site.
-    - Solid Gray
-    - Gold
-    - rgb(89, 128, 150)
-    - rgb(201, 201, 233)
-    - #00509e
+    - Nav bar active tab color: Gold
+
+    - Nav bar tabs background- color: rgb(89, 128, 150)
+      Nav bar text color: rgb(229, 235, 239)
+
+    - Nav bar hover color: White
+
+    - Heading text color on Championships and History page: Brown
+    - Paragaph text color on Championships and History page: Black
 
 ![nav bar](/assets/images/Screenshot%202024-11-26%20183808.png)
 - Typography
