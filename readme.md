@@ -1,7 +1,7 @@
 # The Majors
 [The Majors Project](https://richard-l4.github.io/the-majors/)
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
-![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-26%20180006.png)
+![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-26%20233941.png)
 
 ## Introduction
 - I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the sport, an overview. 
@@ -47,7 +47,7 @@ Here is a list of all the content in the project with detailed descriptions as t
          Golf
       The Majors
 
-   - 'Dancing Script' (font-family)
+   - 'Courier', 'Courier New', Courier, monospace.
 
    - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style that reflexed the backdrop of the image and what the image represents. The Old Course is in the ancient cathedral city of St Andrews Fife in Scotland which I felt warranted an old fashioned style of writting, caligraphy and 'Dancing Script' fitted that perfectly.
 - Logo
@@ -126,11 +126,11 @@ In the future I would like to add more pages, giving far more detail of the game
    - Success page
  ![success](/assets/images/Screenshot%202024-11-26%20180548.png)
  - CSS Validate
- ![CSS](/assets/images/Screenshot%202024-11-26%20180130.png)
+ ![CSS](/assets/images/Screenshot%202024-11-26%20233622.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Screenshot%202024-11-26%20180854.png)
+ ![Home](/assets/images/Screenshot%202024-11-26%20233205.png)
     - Championships page
  ![Championships](/assets/images/Screenshot%202024-11-26%20181050.png)
     - History page
