@@ -131,6 +131,13 @@ main {
     color: black;
     font-weight: bold;
 }
+
+.enquiry-page #enquiry form {
+    background-color: #ffffff;
+    padding: 1rem;
+}
+
+
 .form-label {
     font-family: 'Courier New', Courier, monospace;
     color: black;
@@ -138,7 +145,7 @@ main {
 }
 /* Success page */
 .success-page #social-networks {
-    background-color: rosybrown;
+    background-color: white;
 }
 .custom-button-outline {
     border: 2px solid #00509e; 
@@ -166,6 +173,9 @@ main {
 
 
 /* Footer */
+footer {
+    background-color: white; /* Or any other desired color */
+}
 #social-networks {
     text-align: center;
     padding: 20px 0;
