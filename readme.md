@@ -1,7 +1,7 @@
 # The Majors
 [The Majors Project](https://richard-l4.github.io/the-majors/)
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
-![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-26%20233941.png)
+![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
 
 ## Introduction
 - I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the sport, an overview. 
@@ -75,13 +75,13 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Enquiry page content
     -  The site at present is not designed to get the user in contact with any organization in particular, it just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
 
- ![enquiry](/assets/images/Screenshot%202024-11-26%20183707.png)
+ ![enquiry](/assets/images/Screenshot%202024-11-28%20155532.png)
 - Success page conent
     -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
     -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
- ![success](/assets/images/Screenshot%202024-11-26%20183735.png)
+ ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
 [Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the conent and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
@@ -121,29 +121,29 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used HTML and CSS validate.
 - HTML validate
    - Home (index) page
- ![Home](/assets/images/Screenshot%202024-11-26%20180454.png)
+ ![Home](/assets/images/Screenshot%202024-11-28%20153935.png)
    - Championships page
- ![Championships](/assets/images/Screenshot%202024-11-26%20180227.png)
+ ![Championships](/assets/images/Screenshot%202024-11-28%20154033.png)
    - History page
- ![History](/assets/images/Screenshot%202024-11-26%20180411.png)
+ ![History](/assets/images/Screenshot%202024-11-28%20154110.png)
    - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-26%20180322.png)
+ ![Enquiry](/assets/images/Screenshot%202024-11-28%20154146.png)
    - Success page
  ![success](/assets/images/Screenshot%202024-11-26%20180548.png)
  - CSS Validate
- ![CSS](/assets/images/Screenshot%202024-11-26%20233622.png)
+ ![CSS](/assets/images/Screenshot%202024-11-28%20140318.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Screenshot%202024-11-26%20233205.png)
+ ![Home](/assets/images/Screenshot%202024-11-28%20140037.png)
     - Championships page
  ![Championships](/assets/images/Screenshot%202024-11-26%20181050.png)
     - History page
  ![History](/assets/images/Screenshot%202024-11-26%20181124.png)
     - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-26%20181203.png)
+ ![Enquiry](/assets/images/Screenshot%202024-11-28%20140116.png)
     - Success page
- ![success](/assets/images/Screenshot%202024-11-26%20181304.png)
+ ![success](/assets/images/Screenshot%202024-11-27%20235625.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 
