@@ -129,7 +129,7 @@ In the future I would like to add more pages, giving far more detail of the game
    - Enquiry page
  ![Enquiry](/assets/images/Screenshot%202024-11-28%20154146.png)
    - Success page
- ![success](/assets/images/Screenshot%202024-11-26%20180548.png)
+ ![success](/assets/images/Screenshot%202024-11-28%20162326.png)
  - CSS Validate
  ![CSS](/assets/images/Screenshot%202024-11-28%20140318.png)
 
