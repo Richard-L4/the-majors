@@ -19,7 +19,7 @@
    - Ensure the website is user friendly and encourages repeat visits.
 - Target Audience: Individulas with minimal knowledge of golf seeking an accessible introduction to the sport. 
 
-- 2. Scope Plane (What?)
+- 2.Scope Plane (What?)
 - Features:
    - An overview of major championships with their locations and dates.
    - Historical information about golf's founding fathers.
@@ -30,7 +30,7 @@
    - Hight-quality images to support and enhance content.
    - A simple, uncluttered layout to prioritize readability.
 
-- 3. Structure Plane (How?)
+- 3.Structure Plane (How?)
 - Content Organization:
    - Homepage: Introduction to the website and it's purpose.
    - Championship Page: Information about the major tournaments, their locations, and dates.
@@ -39,7 +39,7 @@
    - A fixed navigation bar visible on all pages.
    - Clear and consistent links to the main sections.
 
-- 4. Skeleton Plane (Layout Design)
+- 4.Skeleton Plane (Layout Design)
 - Layout:
    - Clean, minimalist design with ample whitespace for readability.
    - Balanced distribution of text and images to avoid clutter.
@@ -49,7 +49,7 @@
 - UI Elements:
    - Simple buttons, links, and typography to create a cohesive user experience.
 
-- 5. Surface Plane (Visual Design)
+- 5.Surface Plane (Visual Design)
 - Visual Style:
    - Neutral color palette with subtle accents to highlight important information.
    - High-quality visuals related to golf to engage the user without overwhelming them.
