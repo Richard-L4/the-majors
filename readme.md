@@ -100,13 +100,13 @@ Here is a list of all the content in the project with detailed descriptions as t
 
    - 'Courier', 'Courier New', Courier, monospace.
 
-   - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style that reflexed the backdrop of the image and what the image represents. The Old Course is in the ancient cathedral city of St Andrews Fife in Scotland which I felt warranted an old fashioned style of writting, caligraphy and 'Dancing Script' fitted that perfectly.
+   - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style and color that is clear and easy to read.
 - Logo
-    -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise bringing a sense of balance at first sight.
+    -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise, bringing a sense of balance at first sight.
     
  ![logo](/assets/images/Screenshot%202024-11-18%20113610.png)
 - Favicon Icon
-   - The favicon icon is of Jack Nicklaus 
+   - The favicon icon is of Jack Nicklaus widely regarded as the most successful golfer of all time.
    ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
 
 - Championship page content
