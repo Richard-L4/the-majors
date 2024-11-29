@@ -119,7 +119,7 @@ Here is a list of all the content in the project with detailed descriptions as t
 
  ![history](/assets/images/Screenshot%202024-11-26%20184356.png)
 - Enquiry page content
-    -  The site at present is not designed to get the user in contact with any organization in particular, it just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
+    -  The site at present is not designed to get the user in contact with any organization in particular, it is just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
 
  ![enquiry](/assets/images/Screenshot%202024-11-28%20155532.png)
 - Success page conent
@@ -130,7 +130,7 @@ Here is a list of all the content in the project with detailed descriptions as t
  ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
 [Back to the top](#the-majors)
 ## Development 
-- During the project my ideas changed several times as to how to structure it and the conent and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
+- During the project my ideas changed several times as to how to structure it and the content and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
     - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
@@ -141,12 +141,12 @@ Here is a list of all the content in the project with detailed descriptions as t
 ## Features
 - I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
     - The Enquiry tab itself changes colour on hover to gold. This along with the tab that is highlighted to indicate to the user which page they are currently on was chosen as it is the 'gold medal' that the players are competing for, and I thought the colour contrast worked well on all pages to distinguish location.
-- The "Enquiry" page has a custom button with a hover feature to reassure the user that that is how to submit their details and the message they wish to send. This button is just a simple hover design to aid the user with a colour that I thought works well.
+- The "Enquiry" page has a custom button with a hover feature to reassure the user that, that is how to submit their details and the message they wish to send. This button is just a simple hover design to aid the user with a colour that I thought works well.
 - I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
 [Back to the top](#the-majors)
 
 ## Future
-In the future I would like to add more pages, giving far more detail of the game of golf and it's history, it's champions, both male and female with video clips of the very best at their best with a comprehensive frequently asked questions section.
+In the future I would like to add more pages, giving far more detail of the game of golf and it's history, it's champions, both male and female, with video clips of the very best at their best with a comprehensive frequently asked questions section.
 [Back to the top](#the-majors)
 ## Technology Used
 - HTML
@@ -160,11 +160,11 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
 - I later tested the site for usability on my own personal phone as well as my own I pad to simulate different screen sizes in a 'real world' environment.
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
-- I used my project as an example for my fellow students to see, with some feedback from our facilitator.
-- Finally, I connect my laptop to a 2nd screen to see how the site performs on a large screen.
+- I used my project as an example for my fellow students to see, with some feedback from our facilitator as well as several mentor sessions.
+- Finally, I connected my laptop to a 2nd screen to see how the site performs on a large screen.
 [Back to the top](#the-majors)
 ## Validation
-- I used HTML and CSS validate.
+- I used HTML and CSS validate as well as Lighthouse performance validates.
 - HTML validate
    - Home (index) page
  ![Home](/assets/images/Screenshot%202024-11-28%20153935.png)
@@ -192,11 +192,24 @@ In the future I would like to add more pages, giving far more detail of the game
  ![success](/assets/images/Screenshot%202024-11-27%20235625.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
+- This is done by entering in the terminal in Gitpod:
+   - git add .
+   - git commit -m "enter commit message here"
+   - git push
+- To publish the webiste to be avialable to all.
+   - Select repository from GitHub pages.
+   - Select "Settings" on the top title bar.
+   - Select "Pages".
+   - Choose "Deploy from a branch" in source under "Build and deployment.
+   - "main" and "root" under "Branch" and click "save".
+   - Return to home page and refresh page and wait a few minutes then look for "Deployments" midway down the right hand side of repository page.
+   - This will take you to "github-pages deployments" at top of page, simply click on the highlighted link in the github-pages boxed section. This link can copied and pasted to be sent to other people or used manually if needed on any other device.
 
 ## Credits
 - During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
 - Images used for Championships and History pages have come from [getty images](https://www.gettyimages.co.uk/).
 - The images on the home page and enquiry page are from the St Andrews Official Page.[assets.eu](https://assets-eu-01.kc-usercontent.com/faf6531c-2af4-0128-bed9-496b32f5822b/e5b0f367-5d06-4[…]Old%20Course%20-%20Home%20End-min.jpg?w=2048&&fm=webp). 
+- A big thank you to my facitlaor and mentor for their help in this, my first project.
 
 [Back to the top](#the-majors)
 
