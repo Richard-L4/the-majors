@@ -11,7 +11,7 @@
 
 ## Five Planes of UX Design
 - **1.Strategy Plane (Why?)**
-- Purpose: The website aims to introduce beginners or casual enthusiasts to the sport of golf.
+- Purpose: The website aims to introduce beginners or casual enthusiasts to the game of golf.
 - Goals:
    - Provide an overview of major golf chamionships, their locations, and dates.
    - Offer a brief history of the founding fathers of golf.
@@ -35,6 +35,8 @@
    - Homepage: Introduction to the website and it's purpose.
    - Championship Page: Information about the major tournaments, their locations, and dates.
    - History Page: Brief biographies of the founding fathers of golf.
+   - Enquiry Page: A simple, effective way for the user to make contact for further information.
+   - Success Page: Instant feedback confirming to the user their enquiry request has been submitted successfully.
 - Navigation:
    - A fixed navigation bar visible on all pages.
    - Clear and consistent links to the main sections.
@@ -45,8 +47,8 @@
    - Balanced distribution of text and images to avoid clutter.
 - Responsive Design:
    - Mobile-first design approach, with elements stacked vertically on smaller screens.
-   - HOrizontal alignment and spacing adjustments for larger screens.
-- UI Elements:
+   - Horizontal alignment and spacing adjustments for larger screens.
+- UI (User Interface) Elements:
    - Simple buttons, links, and typography to create a cohesive user experience.
 
 - **5.Surface Plane (Visual Design)**
