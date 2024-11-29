@@ -17,8 +17,7 @@
    - Offer a brief history of the founding fathers of golf.
    - Explain the significance of the championships trophy and it's traditions.
    - Ensure the website is user friendly and encourages repeat visits.
-- Target Audience:
-   - Individulas with minimal knowledge of golf seeking an accessible introduction to the sport.
+- Target Audience: Individulas with minimal knowledge of golf seeking an accessible introduction to the sport.
 
 - 2. Scope Plane (What?)
 - Features:
