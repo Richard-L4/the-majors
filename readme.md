@@ -4,7 +4,7 @@
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
 
 ## Introduction
-- I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the sport, an overview. 
+- I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the game, an overview. 
 - It is designed to provide a very base oversight of the big championships that are held each year, where they are held, and the dates.
 - A brief history of the two golfers who are widely acknowledged as the founding fathers of the game.
 - The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
@@ -134,7 +134,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
-    - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
+    - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured by the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
     - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommitted otherwise the image would not load) could be resolved with a '20%' syntax to substitute for the 'space'.
     - It also is to be noted that the readme file itself has taken many additions and minor to moderate edits as I thought of other things that I felt needed to be added, and trial and error to get the layout to look as good as I thought it could be.
 [Back to the top](#the-majors) 
