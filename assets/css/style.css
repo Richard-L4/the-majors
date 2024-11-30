@@ -24,12 +24,13 @@ main {
     justify-content: center;
     align-items: center;
 }
+
 footer {
     background-color: #ffffff;
 }
 
 .logo {
-    width: 60px;  
+    width: 60px;
     height: 60px;
 }
 
@@ -38,19 +39,19 @@ footer {
 .custom-button-filled {
     background-color: green;
     color: white;
-    width: auto; 
+    width: auto;
     display: inline-block;
 }
 
 .custom-button-filled:hover {
     border: 2px solid gray;
-    background-color:gold;
+    background-color: gold;
     color: black !important;
 }
 
 
 .navbar a {
-    color: rgb(229, 235, 239); 
+    color: rgb(229, 235, 239);
     font-weight: bold;
     font-size: 25px;
     background-color: rgb(89, 128, 150);
@@ -61,14 +62,14 @@ footer {
 }
 
 .navbar a.active {
-    color: gold !important; 
+    color: gold !important;
     text-decoration: underline;
     font-weight: bold;
     font-size: 25px;
 }
 
 .navbar a:hover {
-    color: white; 
+    color: white;
     font-weight: bold;
     font-size: 20px;
 }
@@ -78,20 +79,20 @@ footer {
 .background {
     background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
     width: 100%;
-    height: 100vh;  
+    height: 100vh;
     opacity: 0.9;
-    
+
 }
 
 /* Text styling */
 .center-text {
     /* Position it over the image */
-    position: absolute; 
+    position: absolute;
     /* Center text horizontally */
-    text-align: center; 
+    text-align: center;
     font-size: 80px;
     font-family: 'Courier', 'Courier New', Courier, monospace;
-    font-weight: bold; 
+    font-weight: bold;
     color: cyan;
 }
 
@@ -101,36 +102,43 @@ footer {
     color: brown;
     font-weight: bold;
 }
+
 .championships-page #founders .photo-title {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: brown;
 }
+
 .championships-page #founders .photo-text {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:black;
+    color: black;
 }
+
 /* History page */
 
 .history-page #founders h1 {
     font-family: 'Courier New', Courier, monospace;
-    color:brown;
+    color: brown;
     font-weight: bold;
 }
+
 .history-page #founders .photo-title {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:brown;
+    color: brown;
 }
+
 .history-page #founders .photo-text {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:black;
+    color: black;
 }
+
 /* Enquiry page */
 .enquiry-page {
     background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
     width: 100%;
-    height: 145vh;  
+    height: 145vh;
     opacity: 0.9;
 }
+
 .enquiry-page #enquiry h1 {
     font-family: 'Courier New', Courier, monospace;
     color: black;
@@ -148,31 +156,33 @@ footer {
     color: black;
     font-weight: bold;
 }
+
 /* Success page */
 
 .success-page #social-networks {
     background-color: white;
 }
+
 .custom-button-outline {
-    border: 2px solid #00509e; 
-    background-color: aliceblue; 
-    color: #00509e; 
-    padding: 10px 20px; 
-    border-radius: 5px; 
+    border: 2px solid #00509e;
+    background-color: aliceblue;
+    color: #00509e;
+    padding: 10px 20px;
+    border-radius: 5px;
     font-size: 1rem;
-    font-weight: bold; 
-    cursor: pointer; 
-    transition: background-color 0.3s, color 0.3s; 
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 /* Hover effect */
 .custom-button-outline:hover {
-    background-color: #00509e; 
-    color: #ffffff; 
+    background-color: #00509e;
+    color: #ffffff;
 }
 
 .custom-button-outline {
-    margin-top: 20px; 
+    margin-top: 20px;
     margin-bottom: 5px;
 }
 
@@ -180,8 +190,10 @@ footer {
 
 /* Footer */
 footer {
-    background-color: white; /* Or any other desired color */
+    background-color: white;
+    /* Or any other desired color */
 }
+
 #social-networks {
     text-align: center;
     padding: 27px 0;
@@ -194,32 +206,33 @@ footer {
     font-size: 160%;
     padding: 5%;
 }
+
 /* Specific platform colors */
 #social-networks .facebook i {
-    color: #4267B2; /* Facebook blue */
+    color: #4267B2;
+    /* Facebook blue */
 }
 
 #social-networks .twitter i {
-    color: #1DA1F2; /* Twitter blue */
+    color: #1DA1F2;
+    /* Twitter blue */
 }
 
 #social-networks .youtube i {
-    color: #FF0000; /* YouTube red */
+    color: #FF0000;
+    /* YouTube red */
 }
 
 #social-networks .instagram i {
-    color: #E4405F; /* Instagram orange */
+    color: #E4405F;
+    /* Instagram orange */
 }
 
 
 @media (min-width: 996px) {
     #founders h1 {
-        margin-top: 4rem; 
-        padding-top: 1rem; 
+        margin-top: 4rem;
+        padding-top: 1rem;
     }
-    
+
 }
-
-
-
-
