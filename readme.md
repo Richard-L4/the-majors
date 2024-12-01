@@ -77,7 +77,7 @@
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why. To note, although the language in the base HTML is 'lang="en"' (English) if I try to type "colour" I get a syntax warning of a red line under the word.
 - Nav bar
-    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
+    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section with a hover effect to aid the user on large screens to ensure they know which tab they are on, thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
 
 - In the nav bar image below are the main colours that have been used throughout the site.
     - Nav bar active tab color: Gold
@@ -204,6 +204,24 @@ In the future I would like to add more pages, giving far more detail of the game
    - "main" and "root" under "Branch" and click "save".
    - Return to home page and refresh page and wait a few minutes then look for "Deployments" midway down the right hand side of repository page.
    - This will take you to "github-pages deployments" at top of page, simply click on the highlighted link in the github-pages boxed section. This link can copied and pasted to be sent to other people or used manually if needed on any other device.
+
+## Forking
+   - To fork the project follow these steps:
+      - Open [GitHub](https://github.com/)
+      - Click on the desired project to be forked.
+      - Find the'Fork' button to the top right of the page.
+      - Click the button and the fork will be in your respository.
+
+## Cloning
+   - To clone the project follow these steps:
+      - Open [GitHub](https://github.com/)
+      - Click on the desired project to be cloned.
+      - You will be provided with three options from which to choose, HTTPS, SSH or GitHub, click the clipboard icon in order to copy the URL.
+      - When you have clicked the button the fork will be in your repository.
+      - Open a new terminal.
+      - Change the current working directory to the location where you want the cloned directory.
+      - Type 'git clone' and paste the URL from the third step.
+      - Press 'Enter' and the project is cloned.
 
 ## Credits
 - During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
