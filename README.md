@@ -3,11 +3,6 @@
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
 
-## Introduction
-- I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the game, an overview. 
-- It is designed to provide a very base oversight of the big championships that are held each year, where they are held, and the dates.
-- A brief history of the two golfers who are widely acknowledged as the founding fathers of the game.
-- The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
 ## UX
 
 ### Target Audience
