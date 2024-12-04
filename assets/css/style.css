@@ -44,7 +44,7 @@ footer {
 }
 
 .custom-button-filled:hover {
-    border: 2px solid gray;
+    outline: 2px solid gray;
     background-color: gold;
     color: black !important;
 }
@@ -71,7 +71,7 @@ footer {
 .navbar a:hover {
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    transform: scale(1.1);
 }
 
 /* background image for index.html (home) page */
