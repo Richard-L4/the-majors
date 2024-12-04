@@ -83,15 +83,15 @@ For returning users, the website aims to:
 ## Design
 - I initally used Balsamiq to create a skeleton idea for each page of the site.
 - This wireframe is of the "Home" index.html page.
-- ![New Wireframe1](/assets/images/wire-frame1.png)
+- ![New Wireframe1](/assets/images/wire-frame-1.png)
 - This wireframe is of the "History" history.html page.
-- ![New Wireframe2](/assets/images/Wireframe2.png)
+- ![New Wireframe2](/assets/images/wire-frame-2.png)
 - This wireframe is of the "Championships" championships.html page.
-- ![New Wireframe3](/assets/images/Wireframe3.png)
+- ![New Wireframe3](/assets/images/wire-frame-3.png)
 - This wireframe is of the "Enquiry" enquiry.html page.
-- ![New Wireframe4](/assets/images/Wireframe4.png)
+- ![New Wireframe4](/assets/images/wire-frame-4.png)
 - This wireframe is of the "Success" success.html page.
-- ![New Wireframe5](/assets/images/Wireframe5.png)
+- ![New Wireframe5](/assets/images/wire-frame-5.png)
 [Back to the top](#the-majors)
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why. To note, although the language in the base HTML is 'lang="en"' (English) if I try to type "colour" I get a syntax warning of a red line under the word.
@@ -109,7 +109,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - Heading text color on Championships and History page: Brown
     - Paragaph text color on Championships and History page: Black
 
-![nav bar](/assets/images/Navbar.png)
+![nav bar](/assets/images/navbar.png)
 - Typography
 
 - Headline home page (index.html)
@@ -123,7 +123,7 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise, bringing a sense of balance at first sight.
     
- ![logo](/assets/images/Readmelogo.png)
+ ![logo](/assets/images/read-me-logo.png)
 - Favicon Icon
    - The favicon icon is of Jack Nicklaus widely regarded as the most successful golfer of all time.
    ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
