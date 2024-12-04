@@ -145,11 +145,11 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Success page conent
     -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
     -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
-    -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
+    -  The choice of image is as the golfers in the picture are legends of the game: Jack Nicklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
  ![success](/assets/images/read-me-success.png)
 - Footers
-   - The footers are styled in their recognised colours and contain links to the main 4 social media platforms Facebook, Twitter (now X), YouTube and Instagram.
+   - The footers are designed to help the social media icons stand out clearly and contain the main 4 social media platforms Facebook, Twitter (now X), YouTube and Instagram with direct links to their respective sites, all are styled with their recognised icons.
 [Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the content and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
