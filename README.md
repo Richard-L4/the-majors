@@ -123,7 +123,7 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Logo
     -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise, bringing a sense of balance at first sight.
     
- ![logo](/assets/images/Screenshot%202024-12-04%20141259.png)
+ ![logo](/assets/images/Readmelogo.png)
 - Favicon Icon
    - The favicon icon is of Jack Nicklaus widely regarded as the most successful golfer of all time.
    ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
@@ -131,23 +131,23 @@ Here is a list of all the content in the project with detailed descriptions as t
 - Championship page content
     -  Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
 
- ![championship](/assets/images/Screenshot%202024-11-26%20184329.png)
+ ![championship](/assets/images/ReadmeChampionships.png)
 - History page content
     -  The same concept as the Championship page of balanced clear information. The image on the left of the page is the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event with a brief description of him and his life.
     -  The middle image, the trophy itself. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
     - The image on the right hand side is of Allan Robertson, the man regarded as being the first "club professional" with a small section giving a brief description of him.
 
- ![history](/assets/images/Screenshot%202024-11-26%20184356.png)
+ ![history](/assets/images/ReadmeHistory.png)
 - Enquiry page content
     -  The site at present is not designed to get the user in contact with any organization in particular, it is just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
 
- ![enquiry](/assets/images/Screenshot%202024-11-28%20155532.png)
+ ![enquiry](/assets/images/ReadmeEnquiry.png)
 - Success page conent
     -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
     -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
- ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
+ ![success](/assets/images/ReadmeSuccess.png)
 - Footers
    - The footers are styled in their recognised colours and contain links to the main 4 social media platforms Facebook, Twitter (now X), YouTube and Instagram.
 [Back to the top](#the-majors)
