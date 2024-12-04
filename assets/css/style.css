@@ -74,7 +74,7 @@ footer {
 /* background image for index.html (home) page */
 
 .background {
-    background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
+    background: url('../images/OldCourse.webp') center/cover no-repeat;
     width: 100%;
     height: 100vh;
     opacity: 0.9;
@@ -130,7 +130,7 @@ footer {
 
 /* Enquiry page */
 .enquiry-page {
-    background: url('../images/Old\ Course\ -\ Home\ End-min.webp') center/cover no-repeat;
+    background: url('../images/OldCourse.webp') center/cover no-repeat;
     width: 100%;
     height: 145vh;
     opacity: 0.9;
