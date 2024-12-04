@@ -13,7 +13,7 @@ The website is designed to:
 - Provide a brief and engaging overview of golf as a sport.
 - Offer information on the major championships held annually, including their venues and dates.
 - Share a concise history of the two golfers regarded as the founding fathers of golf.
-- Highlight the significance of the trophy awarded to tournament winners, including the title "The winner of the Gold Medal and Champion Golfer of the Year."
+- Highlight the significance of the trophy awarded to tournament winners, including the title "The winner of the Gold Medal and the Champion Golfer of the Year."
 
 ### Returning Users
 For returning users, the website aims to:
