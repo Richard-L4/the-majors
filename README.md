@@ -109,7 +109,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - Heading text color on Championships and History page: Brown
     - Paragaph text color on Championships and History page: Black
 
-![nav bar](/assets/images/navbar.png)
+![nav bar](/assets/images/nav-bar.png)
 - Typography
 
 - Headline home page (index.html)
@@ -204,29 +204,29 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used HTML and CSS validate as well as Lighthouse performance validates.
 - HTML validate
    - Home (index) page
- ![Home](/assets/images/HTMLValidate1.png)
+ ![Home](/assets/images/html-validate-1.png)
    - Championships page
- ![Championships](/assets/images/HTMLValidate2.png)
+ ![Championships](/assets/images/html-validate-2.png)
    - History page
- ![History](/assets/images/HTMLValidate3.png)
+ ![History](/assets/images/html-validate-3.png)
    - Enquiry page
- ![Enquiry](/assets/images/HTMLValidate4.png)
+ ![Enquiry](/assets/images/html-validate-4.png)
    - Success page
- ![success](/assets/images/HTMLValidate5.png)
+ ![success](/assets/images/html-validate-5.png)
  - CSS Validate
- ![CSS](/assets/images/CSSValidate.png)
+ ![CSS](/assets/images/css-validate.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Lighthouse1.png)
+ ![Home](/assets/images/lighthouse-1.png)
     - Championships page
- ![Championships](/assets/images/Lighthouse2.png)
+ ![Championships](/assets/images/lighthouse-2.png)
     - History page
- ![History](/assets/images/Lighthouse3.png)
+ ![History](/assets/images/lighthouse-3.png)
     - Enquiry page
- ![Enquiry](/assets/images/Lighthouse4.png)
+ ![Enquiry](/assets/images/lighthouse-4.png)
     - Success page
- ![success](/assets/images/Lighthouse5.png)
+ ![success](/assets/images/lighthouse-5.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 - This is done by entering in the terminal in Gitpod:
