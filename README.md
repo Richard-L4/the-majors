@@ -157,7 +157,8 @@ Here is a list of all the content in the project with detailed descriptions as t
     - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
     - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
     - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured by the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
-    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommitted otherwise the image would not load) could be resolved with a '20%' syntax to substitute for the 'space'.
+    - My third challenge was after a meeting with my mentor, I added a background to the form in my enquiry page but noticed that on a small screen the logo was obscuring one of the form fields. I had to 'play' with the page layout so that it 'sat' well on the page on a small screen but still worked well on large screen sizes.
+    - My final issue was under advice from my mentor to alter the navigation tabs so that while they do still move when hovered on, they don't cause the one's two either side to move. The solution was to "scale" rather than "hover".
     - It also is to be noted that the readme file itself has taken many additions and minor to moderate edits as I thought of other things that I felt needed to be added, and trial and error to get the layout to look as good as I thought it could be.
 [Back to the top](#the-majors) 
 ## Features
@@ -179,7 +180,7 @@ In the future I would like to add more pages, giving far more detail of the game
 - Chat GPT for minor bug fixes.
 [Back to the top](#the-majors)
 ## Testing
-- I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
+- I used  dev tools and 'inspect' on the preview page to test at first point how the project looked on a small screen simulating various mobile devices and then more widely for devices such as I pad's, tablets, laptop's and then by entereing pixel sizes into dev tools large and very large screens as a first stage.
 - I later tested the site for usability on my own personal phone as well as my own I pad to simulate different screen sizes in a 'real world' environment.
 - As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
 - I used my project as an example for my fellow students to see, with some feedback from our facilitator as well as several mentor sessions.
