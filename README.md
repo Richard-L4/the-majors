@@ -85,7 +85,7 @@ For returning users, the website aims to:
 - This wireframe is of the "Home" index.html page.
 - ![New Wireframe1](/assets/images/Wireframe1.png)
 - This wireframe is of the "History" history.html page.
-- ![New Wireframe2](/assets/images/New%20Wireframe%202.png)
+- ![New Wireframe2](/assets/images/Wireframe2.png)
 - This wireframe is of the "Championships" championships.html page.
 - ![New Wireframe3](/assets/images/New%20Wireframe%203.png)
 - This wireframe is of the "Enquiry" enquiry.html page.
