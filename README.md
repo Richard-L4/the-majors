@@ -1,131 +1,234 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Majors
+[The Majors Project](https://richard-l4.github.io/the-majors/)
+ In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
+![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
 
-Welcome Richard Wells,
+## Introduction
+- I wanted to create a website for anyone who may have an interest in golf. Someone who may have seen a small amount on TV or radio and have an interest to know a little bit about the game, an overview. 
+- It is designed to provide a very base oversight of the big championships that are held each year, where they are held, and the dates.
+- A brief history of the two golfers who are widely acknowledged as the founding fathers of the game.
+- The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Five Planes of UX Design
+- **1.Strategy Plane (Why?)**
+- Purpose: The website aims to introduce beginners or casual enthusiasts to the game of golf.
+- Goals:
+   - Provide an overview of major golf chamionships, their locations, and dates.
+   - Offer a brief history of the founding fathers of golf.
+   - Explain the significance of the championships trophy and it's traditions.
+   - Ensure the website is user friendly and encourages repeat visits.
+- Target Audience: Individulas with minimal knowledge of golf seeking an accessible introduction to the sport. 
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+- **2.Scope Plane (What?)**
+- Features:
+   - An overview of major championships with their locations and dates.
+   - Historical information about golf's founding fathers.
+   - Details about the championships trophy and it's traditions.
+   - Consistent navigation across all pages.
+- Content Requirements:
+   - Concise, clear, and easy-to-digest text.
+   - Hight-quality images to support and enhance content.
+   - A simple, uncluttered layout to prioritize readability.
 
-## Gitpod Reminders
+- **3.Structure Plane (How?)**
+- Content Organization:
+   - Homepage: Introduction to the website and it's purpose.
+   - Championship Page: Information about the major tournaments, their locations, and dates.
+   - History Page: Brief biographies of the founding fathers of golf.
+   - Enquiry Page: A simple, effective way for the user to make contact for further information.
+   - Success Page: Instant feedback confirming to the user their enquiry request has been submitted successfully.
+- Navigation:
+   - A fixed navigation bar visible on all pages.
+   - Clear and consistent links to the main sections.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- **4.Skeleton Plane (Layout Design)**
+- Layout:
+   - Clean, minimalist design with ample whitespace for readability.
+   - Balanced distribution of text and images to avoid clutter.
+- Responsive Design:
+   - Mobile-first design approach, with elements stacked vertically on smaller screens.
+   - Horizontal alignment and spacing adjustments for larger screens.
+- UI (User Interface) Elements:
+   - Simple buttons, links, and typography to create a cohesive user experience.
 
-`python3 -m http.server`
+- **5.Surface Plane (Visual Design)**
+- Visual Style:
+   - Neutral color palette with subtle accents to highlight important information.
+   - High-quality visuals related to golf to engage the user without overwhelming them.
+- Typography:
+   - Legible and clean fonts, ensuring readablitiy on all devices.
+- Consistency:
+   - Uniform design elements across all pages to maintain a professsional and user-friendly look.
 
-A blue button should appear to click: _Make Public_,
+[Back to the top](#the-majors)
+## Design
+- I initally used Balsamiq to create a skeleton idea for each page of the site.
+- This wireframe is of the "Home" index.html page.
+- ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
+- This wireframe is of the "History" history.html page.
+- ![New Wireframe2](/assets/images/New%20Wireframe%202.png)
+- This wireframe is of the "Championships" championships.html page.
+- ![New Wireframe3](/assets/images/New%20Wireframe%203.png)
+- This wireframe is of the "Enquiry" enquiry.html page.
+- ![New Wireframe4](/assets/images/New%20Wireframe%204.png)
+- This wireframe is of the "Success" success.html page.
+- ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
+[Back to the top](#the-majors)
+## Content
+Here is a list of all the content in the project with detailed descriptions as to what has been done and why. To note, although the language in the base HTML is 'lang="en"' (English) if I try to type "colour" I get a syntax warning of a red line under the word.
+- Nav bar
+    - I was very keen that the navigation bar would not be an actual bar as from Bootstrap but buttons or tabs that are fixed to the header section with a hover effect to aid the user on large screens to ensure they know which tab they are on, thus making it easy to navigate throughout the site aiding to the user experience. As the tabs would be visible at all times over the top the image it would look much better than a solid bar and not interfere with any of the image as the page is scrolled down.
 
-Another blue button should appear to click: _Open Browser_.
+- In the nav bar image below are the main colours that have been used throughout the site.
+    - Nav bar active tab color: Gold
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+    - Nav bar tabs background- color: rgb(89, 128, 150)
+    - Nav bar text color: rgb(229, 235, 239)
 
-A blue button should appear to click: _Make Public_,
+    - Nav bar hover color: White
 
-Another blue button should appear to click: _Open Browser_.
+    - Heading text color on Championships and History page: Brown
+    - Paragaph text color on Championships and History page: Black
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![nav bar](/assets/images/Screenshot%202024-11-26%20183808.png)
+- Typography
 
-To log into the Heroku toolbelt CLI:
+- Headline home page (index.html)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+         Golf
+      The Majors
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+   - 'Courier', 'Courier New', Courier, monospace.
 
-### Connecting your Mongo database
+   - I was keen for the Home page that there was a simple message stating straight away what the website is about using a font style and color that is clear and easy to read.
+- Logo
+    -  The logo is just a simple design from getty images of a golf ball on a tee peg avoiding the use of any brand naming such as Titleist, Taylor Made etc. It occupies an otherwise redundant part of the screen that would look empty otherwise, bringing a sense of balance at first sight.
+    
+ ![logo](/assets/images/Screenshot%202024-12-04%20141259.png)
+- Favicon Icon
+   - The favicon icon is of Jack Nicklaus widely regarded as the most successful golfer of all time.
+   ![Jack Nicklaus](/assets/images/apple-touch-icon.png)
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+- Championship page content
+    -  Four clear, nicely centered images giving the user an instant impression of the four major championships with a short dialogue under each stating when they are held and in the case of The Masters, where (as it is always the same venue).
 
-------
+ ![championship](/assets/images/Screenshot%202024-11-26%20184329.png)
+- History page content
+    -  The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
+    -  The middle image, the trophy itself. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
 
-## Release History
+ ![history](/assets/images/Screenshot%202024-11-26%20184356.png)
+- Enquiry page content
+    -  The site at present is not designed to get the user in contact with any organization in particular, it is just to allow anyone who would like more information a simple, easy method of making contact for anything they would like to know. Just name and email address so they can be responded to, without being overbearing and asking for any more personal details which at this stage I felt could be seen as intrusive.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+ ![enquiry](/assets/images/Screenshot%202024-11-28%20155532.png)
+- Success page conent
+    -  From my own personal experiences on many websites, it is always reasurring to get instant feedback that the message / commitment that you have just made has been successful.
+    -  The use of the two images is to give the page a little bit of extra colour and life, being the same image on both sides, here I feel works well to balance the page.
+    -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
-**June 18, 2024,** Add Mongo back into template
+ ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
+[Back to the top](#the-majors)
+## Development 
+- During the project my ideas changed several times as to how to structure it and the content and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
+    - Being my first solo project, I was keen to reinforce the principal teachings from the three walkthrough projects.
+    - The main issue I had several times, was getting the concept idea of what I wanted to do to appear as I wanted. This meant having to look back over previous lessons many times to be able to apply the techniques and syntax to my own personal design.
+    - The first big problem and eventual 'penny drop' moment I had was with Bootstrap containers. I had spent all day trying to get what I thought to be a good "GRID" that would be highly responsive to work correctly with no success. Eventually, I finally realised it was a CONTAINER not a GRID that I needed, and with a bit of trial and error was able to get the desired outcome I wanted.
+    - My second challenge was during testing. I noticed that the links on the navigation bar were just the words themselves, which I thought looked good against the backdrop of the image. However, when I checked the Enquiry page it was clear that they were obscured by the form labels. After a lot of trial and error of many things, again, I finally remembered that you can add a background to the tabs. Once I had a rough version of these implace, it was just a case of the styling to get all the colours to 'sit' / sync well together.
+    - My final issue was raised during validation testing. HTML validate picked up that there was an illegal space in the image links to some images. This took some research on Google to discover that the issue of the space (which couldn't be ommitted otherwise the image would not load) could be resolved with a '20%' syntax to substitute for the 'space'.
+    - It also is to be noted that the readme file itself has taken many additions and minor to moderate edits as I thought of other things that I felt needed to be added, and trial and error to get the layout to look as good as I thought it could be.
+[Back to the top](#the-majors) 
+## Features
+- I designed the site to have individual pages to create a cleaner, clearer user experience including a separate "Enquiry" button taken from Bootstrap and then modified and styled to suit the style of the site that is situated slightly away from the main menu tabs.
+    - The Enquiry tab itself changes colour on hover to gold. This along with the tab that is highlighted to indicate to the user which page they are currently on was chosen as it is the 'gold medal' that the players are competing for, and I thought the colour contrast worked well on all pages to distinguish location.
+- The "Enquiry" page has a custom button with a hover feature to reassure the user that, that is how to submit their details and the message they wish to send. This button is just a simple hover design to aid the user with a colour that I thought works well.
+- I created a "success" page to give instant confirmation to the user that their message has been successfully submitted, with a link to take the user back to any part of the site they would like to go to.
+[Back to the top](#the-majors)
 
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
+## Future
+In the future I would like to add more pages, giving far more detail of the game of golf and it's history, it's champions, both male and female, with video clips of the very best at their best with a comprehensive frequently asked questions section.
+[Back to the top](#the-majors)
+## Technology Used
+- HTML
+- CSS
+- [HTML Validator](https://validator.w3.org/)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- Lighthouse.
+- Chat GPT for minor bug fixes.
+[Back to the top](#the-majors)
+## Testing
+- I used  dev tools and inspect on the preview page to test at first point how the project looked on all screen sizes as a first stage.
+- I later tested the site for usability on my own personal phone as well as my own I pad to simulate different screen sizes in a 'real world' environment.
+- As an added measure of testing I sent a link of the GitHub site to a friend who is a Developer so he could give me feedback on how he found the site from a user and profession perspective.
+- I used my project as an example for my fellow students to see, with some feedback from our facilitator as well as several mentor sessions.
+- Finally, I connected my laptop to a 2nd screen to see how the site performs on a large screen.
+[Back to the top](#the-majors)
+## Validation
+- I used HTML and CSS validate as well as Lighthouse performance validates.
+- HTML validate
+   - Home (index) page
+ ![Home](/assets/images/Screenshot%202024-12-04%20120946.png)
+   - Championships page
+ ![Championships](/assets/images/Screenshot%202024-12-04%20122332.png)
+   - History page
+ ![History](/assets/images/Screenshot%202024-12-04%20123158.png)
+   - Enquiry page
+ ![Enquiry](/assets/images/Screenshot%202024-12-04%20123533.png)
+   - Success page
+ ![success](/assets/images/Screenshot%202024-12-04%20124236.png)
+ - CSS Validate
+ ![CSS](/assets/images/Screenshot%202024-12-04%20114550.png)
 
-**May 28 2024:** Fix Mongo and Links installs
+- Lighthouse assements
+    - Home page
+ ![Home](/assets/images/Screenshot%202024-12-04%20121241.png)
+    - Championships page
+ ![Championships](/assets/images/Screenshot%202024-12-04%20122444.png)
+    - History page
+ ![History](/assets/images/Screenshot%202024-12-04%20123253.png)
+    - Enquiry page
+ ![Enquiry](/assets/images/Screenshot%202024-12-04%20123633.png)
+    - Success page
+ ![success](/assets/images/Screenshot%202024-12-04%20124117.png)
+## Deployment
+- To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
+- This is done by entering in the terminal in Gitpod:
+   - git add .
+   - git commit -m "enter commit message here"
+   - git push
+- To publish the webiste to be avialable to all.
+   - Select repository from GitHub pages.
+   - Select "Settings" on the top title bar.
+   - Select "Pages".
+   - Choose "Deploy from a branch" in source under "Build and deployment.
+   - "main" and "root" under "Branch" and click "save".
+   - Return to home page and refresh page and wait a few minutes then look for "Deployments" midway down the right hand side of repository page.
+   - This will take you to "github-pages deployments" at top of page, simply click on the highlighted link in the github-pages boxed section. This link can copied and pasted to be sent to other people or used manually if needed on any other device.
 
-**April 26 2024:** Update node version to 16
+## Forking
+   - To fork the project follow these steps:
+      - Open [GitHub](https://github.com/)
+      - Click on the desired project to be forked.
+      - Find the'Fork' button to the top right of the page.
+      - Click the button and the fork will be in your respository.
 
-**September 20 2023:** Update Python version to 3.9.17.
+## Cloning
+   - To clone the project follow these steps:
+      - Open [GitHub](https://github.com/)
+      - Click on the desired project to be cloned.
+      - You will be provided with three options from which to choose, HTTPS, SSH or GitHub, click the clipboard icon in order to copy the URL.
+      - When you have clicked the button the fork will be in your repository.
+      - Open a new terminal.
+      - Change the current working directory to the location where you want the cloned directory.
+      - Type 'git clone' and paste the URL from the third step.
+      - Press 'Enter' and the project is cloned.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+## Credits
+- During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
+- Images used for Championships and History pages have come from [getty images](https://www.gettyimages.co.uk/).
+- The images on the home page and enquiry page are from the St Andrews Official Page.[assets.eu](https://assets-eu-01.kc-usercontent.com/faf6531c-2af4-0128-bed9-496b32f5822b/e5b0f367-5d06-4[…]Old%20Course%20-%20Home%20End-min.jpg?w=2048&&fm=webp). 
+- A big thank you to my facitlaor and mentor for their help in this, my first project.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+[Back to the top](#the-majors)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
