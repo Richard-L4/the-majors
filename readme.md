@@ -167,29 +167,29 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used HTML and CSS validate as well as Lighthouse performance validates.
 - HTML validate
    - Home (index) page
- ![Home](/assets/images/Screenshot%202024-11-28%20153935.png)
+ ![Home](/assets/images/Screenshot%202024-12-04%20120946.png)
    - Championships page
- ![Championships](/assets/images/Screenshot%202024-11-28%20154033.png)
+ ![Championships](/assets/images/Screenshot%202024-12-04%20122332.png)
    - History page
- ![History](/assets/images/Screenshot%202024-11-28%20154110.png)
+ ![History](/assets/images/Screenshot%202024-12-04%20123158.png)
    - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-28%20154146.png)
+ ![Enquiry](/assets/images/Screenshot%202024-12-04%20123533.png)
    - Success page
- ![success](/assets/images/Screenshot%202024-11-28%20162326.png)
+ ![success](/assets/images/Screenshot%202024-12-04%20124236.png)
  - CSS Validate
- ![CSS](/assets/images/Screenshot%202024-11-28%20140318.png)
+ ![CSS](/assets/images/Screenshot%202024-12-04%20114550.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Screenshot%202024-11-28%20140037.png)
+ ![Home](/assets/images/Screenshot%202024-12-04%20121241.png)
     - Championships page
- ![Championships](/assets/images/Screenshot%202024-11-26%20181050.png)
+ ![Championships](/assets/images/Screenshot%202024-12-04%20122444.png)
     - History page
- ![History](/assets/images/Screenshot%202024-11-26%20181124.png)
+ ![History](/assets/images/Screenshot%202024-12-04%20123253.png)
     - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-11-28%20140116.png)
+ ![Enquiry](/assets/images/Screenshot%202024-12-04%20123633.png)
     - Success page
- ![success](/assets/images/Screenshot%202024-11-27%20235625.png)
+ ![success](/assets/images/Screenshot%202024-12-04%20124117.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 - This is done by entering in the terminal in Gitpod:
