@@ -1,7 +1,7 @@
 # The Majors
 [The Majors Project](https://richard-l4.github.io/the-majors/)
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
-![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
+![Images of front page of project on all device sizes](/assets/images/AllDevices.png)
 
 ## UX (User Experience)
 
@@ -204,29 +204,29 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used HTML and CSS validate as well as Lighthouse performance validates.
 - HTML validate
    - Home (index) page
- ![Home](/assets/images/Screenshot%202024-12-04%20120946.png)
+ ![Home](/assets/images/HTMLValidate1.png)
    - Championships page
- ![Championships](/assets/images/Screenshot%202024-12-04%20122332.png)
+ ![Championships](/assets/images/HTMLValidate2.png)
    - History page
- ![History](/assets/images/Screenshot%202024-12-04%20123158.png)
+ ![History](/assets/images/HTMLValidate3.png)
    - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-12-04%20123533.png)
+ ![Enquiry](/assets/images/HTMLValidate4.png)
    - Success page
- ![success](/assets/images/Screenshot%202024-12-04%20124236.png)
+ ![success](/assets/images/HTMLValidate5.png)
  - CSS Validate
- ![CSS](/assets/images/Screenshot%202024-12-04%20114550.png)
+ ![CSS](/assets/images/CSSValidate.png)
 
 - Lighthouse assements
     - Home page
- ![Home](/assets/images/Screenshot%202024-12-04%20121241.png)
+ ![Home](/assets/images/Lighthouse1.png)
     - Championships page
- ![Championships](/assets/images/Screenshot%202024-12-04%20122444.png)
+ ![Championships](/assets/images/Lighthouse2.png)
     - History page
- ![History](/assets/images/Screenshot%202024-12-04%20123253.png)
+ ![History](/assets/images/Lighthouse3.png)
     - Enquiry page
- ![Enquiry](/assets/images/Screenshot%202024-12-04%20123633.png)
+ ![Enquiry](/assets/images/Lighthouse4.png)
     - Success page
- ![success](/assets/images/Screenshot%202024-12-04%20124117.png)
+ ![success](/assets/images/Lighthouse5.png)
 ## Deployment
 - To deploy my project I used [GitHub](https://github.com/) pages by committing and pushing the project from Gitpod to GitHub pages.
 - This is done by entering in the terminal in Gitpod:
