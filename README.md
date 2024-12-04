@@ -8,6 +8,30 @@
 - It is designed to provide a very base oversight of the big championships that are held each year, where they are held, and the dates.
 - A brief history of the two golfers who are widely acknowledged as the founding fathers of the game.
 - The trophy itself that goes to the player who wins the tournament and is introduced as "The champion golfer of the year and the winner of the Gold Medal". 
+## UX
+
+### Target Audience
+The website is aimed at individuals who may have a casual interest in golf. This could include those who have seen the sport briefly on TV or heard about it on the radio and are curious to learn more. The target audience is anyone seeking a basic understanding of the game and its traditions.
+
+### User Goals
+The website is designed to:
+- Provide a brief and engaging overview of golf as a sport.
+- Offer information on the major championships held annually, including their venues and dates.
+- Share a concise history of the two golfers regarded as the founding fathers of golf.
+- Highlight the significance of the trophy awarded to tournament winners, including the title "The Champion Golfer of the Year."
+
+### Returning Users
+For returning users, the website aims to:
+- Serve as a quick reference for updated championship dates and venues.
+- Encourage deeper engagement with additional resources, such as historical details, player spotlights, or memorable moments in golf history.
+- Provide new interactive features, such as an enquiry form, for users to request further information or updates about championships or golf-related events.
+- Ensure consistent performance and a user-friendly experience across all pages, maintaining familiarity while enhancing content where necessary.
+
+### Design Decisions
+- The content is written in an accessible tone to appeal to newcomers to the sport while remaining engaging for returning users.
+- Visual elements, such as images of the championship trophy and historical figures, are included to enhance engagement.
+- A clear navigation structure ensures users can easily find the information they seek, whether they're new or returning visitors.
+- Future scalability is planned, with room to add sections or features catering to both first-time and repeat visitors.
 
 ## Five Planes of UX Design
 - **1.Strategy Plane (Why?)**
