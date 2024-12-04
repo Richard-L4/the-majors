@@ -83,7 +83,7 @@ For returning users, the website aims to:
 ## Design
 - I initally used Balsamiq to create a skeleton idea for each page of the site.
 - This wireframe is of the "Home" index.html page.
-- ![New Wireframe1](/assets/images/New%20Wireframe%201.png)
+- ![New Wireframe1](/assets/images/Wireframe1.png)
 - This wireframe is of the "History" history.html page.
 - ![New Wireframe2](/assets/images/New%20Wireframe%202.png)
 - This wireframe is of the "Championships" championships.html page.
