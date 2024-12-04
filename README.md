@@ -163,6 +163,20 @@ In the future I would like to add more pages, giving far more detail of the game
 - I used my project as an example for my fellow students to see, with some feedback from our facilitator as well as several mentor sessions.
 - Finally, I connected my laptop to a 2nd screen to see how the site performs on a large screen.
 [Back to the top](#the-majors)
+## Funstioality
+| Feature/Functionality                | Expected Outcome                                                                                     | Actual Outcome                                                                                       |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Responsive Design                    | The website adjusts seamlessly to different device sizes, ensuring a good user experience.           | The website adapts well across all tested screen sizes, with no layout issues observed.             |
+| Fixed Navigation Bar                 | Users can access the navigation bar from any section of the site without scrolling.                  | The navigation bar remains fixed across all pages, providing consistent access.                     |
+| Visual Hover Effects                 | Buttons and links change visually on hover to improve interactivity.                                 | Hover effects are functional and enhance the website's interactivity as intended.                   |
+| Major Championship Overview          | Clear presentation of championship dates, venues, and relevant information.                         | Championship details are displayed accurately and are easy to understand.                           |
+| History Section                      | A visually appealing section providing details on the founding fathers and championship history.      | The history section displays content effectively and aligns with the project's overall theme.        |
+| Enquiry Form                         | Users can submit their details to request more information.                                          | The form submits user inputs successfully, and the data is validated for errors before submission.   |
+| Success Page Feedback                | Users receive confirmation after successfully submitting the enquiry form.                           | The success page displays a clear confirmation message upon form submission.                        |
+| Custom Styling                       | A unique, professional design using tailored colors, fonts, and layouts.                            | The website features a cohesive design that aligns with project goals and user expectations.         |
+| Validation and Testing               | The code passes validation checks and achieves good performance and accessibility scores.            | The HTML and CSS validate successfully, and Lighthouse scores show strong results in all categories. |
+| Future Scalability                   | The project structure allows easy addition of new features, pages, or media.                        | The folder structure and coding practices support easy scalability for future enhancements.          |
+
 ## Validation
 - I used HTML and CSS validate as well as Lighthouse performance validates.
 - HTML validate
