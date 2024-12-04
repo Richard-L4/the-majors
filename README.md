@@ -150,7 +150,6 @@ Here is a list of all the content in the project with detailed descriptions as t
  ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
 - Footers
    - The footers are styled in their recognised colours and contain links to the main 4 social media platforms Facebook, Twitter (now X), YouTube and Instagram.
-   [footers](/assets/images/Screenshot%202024-12-04%20153918.png)
 [Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the content and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
