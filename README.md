@@ -87,11 +87,11 @@ For returning users, the website aims to:
 - This wireframe is of the "History" history.html page.
 - ![New Wireframe2](/assets/images/Wireframe2.png)
 - This wireframe is of the "Championships" championships.html page.
-- ![New Wireframe3](/assets/images/New%20Wireframe%203.png)
+- ![New Wireframe3](/assets/images/Wireframe3.png)
 - This wireframe is of the "Enquiry" enquiry.html page.
-- ![New Wireframe4](/assets/images/New%20Wireframe%204.png)
+- ![New Wireframe4](/assets/images/Wireframe4.png)
 - This wireframe is of the "Success" success.html page.
-- ![New Wireframe5](/assets/images/New%20Wireframe%205.png)
+- ![New Wireframe5](/assets/images/Wireframe5.png)
 [Back to the top](#the-majors)
 ## Content
 Here is a list of all the content in the project with detailed descriptions as to what has been done and why. To note, although the language in the base HTML is 'lang="en"' (English) if I try to type "colour" I get a syntax warning of a red line under the word.
