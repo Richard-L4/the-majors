@@ -109,7 +109,7 @@ Here is a list of all the content in the project with detailed descriptions as t
     - Heading text color on Championships and History page: Brown
     - Paragaph text color on Championships and History page: Black
 
-![nav bar](/assets/images/Screenshot%202024-11-26%20183808.png)
+![nav bar](/assets/images/Navbar.png)
 - Typography
 
 - Headline home page (index.html)
