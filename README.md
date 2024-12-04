@@ -3,7 +3,7 @@
  In the world of Golf there are four 'Major' tournaments each year that every golfer who is eligible to compete in wants to win. These are the tournaments that a professional golfer's success is judged by, the number of major's they have won. The image below is of the 18th hole at The Royal and Ancient Club of St Andrews Scotland. St Andrews is widely regarded as 'the home of golf', this is the place where of all the venues where the Open championship is held a player most wants to win.
 ![Images of front page of project on all device sizes](/assets/images/Screenshot%202024-11-28%20141811.png)
 
-## UX
+## UX (User Experience)
 
 ### Target Audience
 The website is aimed at individuals who may have a casual interest in golf. This could include those who have seen the sport briefly on TV or heard about it on the radio and are curious to learn more. The target audience is anyone seeking a basic understanding of the game and its traditions.
@@ -32,11 +32,11 @@ For returning users, the website aims to:
 - **1.Strategy Plane (Why?)**
 - Purpose: The website aims to introduce beginners or casual enthusiasts to the game of golf.
 - Goals:
-   - Provide an overview of major golf chamionships, their locations, and dates.
+   - Provide an overview of major golf championships, their locations, and dates.
    - Offer a brief history of the founding fathers of golf.
-   - Explain the significance of the championships trophy and it's traditions.
+   - Explain the significance of the championships trophy and its traditions.
    - Ensure the website is user friendly and encourages repeat visits.
-- Target Audience: Individulas with minimal knowledge of golf seeking an accessible introduction to the sport. 
+- Target Audience: Individuals with minimal knowledge of golf seeking an accessible introduction to the game. 
 
 - **2.Scope Plane (What?)**
 - Features:
@@ -133,8 +133,9 @@ Here is a list of all the content in the project with detailed descriptions as t
 
  ![championship](/assets/images/Screenshot%202024-11-26%20184329.png)
 - History page content
-    -  The same concept as the Championship page of balanced clear information. The image on the left of the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event.
+    -  The same concept as the Championship page of balanced clear information. The image on the left of the page is the person most famous for winning the tournament in the pioneer days and setting in place the legacy of the event with a brief description of him and his life.
     -  The middle image, the trophy itself. Not being held by any champion, but as it sits in it's trophy case with a little information as to it's construction and history.
+    - The image on the right hand side is of Allan Robertson, the man regarded as being the first "club professional" with a small section giving a brief description of him.
 
  ![history](/assets/images/Screenshot%202024-11-26%20184356.png)
 - Enquiry page content
@@ -147,6 +148,9 @@ Here is a list of all the content in the project with detailed descriptions as t
     -  The choice of image is as the golfers in the picture are legends of the game: Jack Niklaus the greatest of all time, Tiger Woods the greatest of the modern era, with Rory Mc Ilroy the greatest modern golfer (post year 2000) that the United Kingdom has produced and Georgia Hall the the most successful female golfer of the modern era from the United Kingdom and Lee Trevino who is a long time friend and rival of Jack Nicklaus and a great ambassador in general.
 
  ![success](/assets/images/Screenshot%202024-11-28%20155558.png)
+- Footers
+   - The footers are styled in their recognised colours and contain links to the main 4 social media platforms Facebook, Twitter (now X), YouTube and Instagram.
+   [footers](/assets/images/Screenshot%202024-12-04%20153918.png)
 [Back to the top](#the-majors)
 ## Development 
 - During the project my ideas changed several times as to how to structure it and the content and styling to use, in HTML, CSS and readme.md. Below are challenges I faced and the reasons as to the decisions that were made.
