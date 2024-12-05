@@ -6,11 +6,11 @@
 ## UX (User Experience)
 
 ### Target Audience
-The website is aimed at individuals who may have a casual interest in golf. This could include those who have seen the sport briefly on TV or heard about it on the radio and are curious to learn more. The target audience is anyone seeking a basic understanding of the game and its traditions.
+The website is aimed at individuals who may have a casual interest in golf. This could include those who have seen the game briefly on TV or heard about it on the radio and are curious to learn more. The target audience is anyone seeking a basic understanding of the game and its traditions.
 
 ### User Goals
 The website is designed to:
-- Provide a brief and engaging overview of golf as a sport.
+- Provide a brief and engaging overview of the game of golf as a sport.
 - Offer information on the major championships held annually, including their venues and dates.
 - Share a concise history of the two golfers regarded as the founding fathers of golf.
 - Highlight the significance of the trophy awarded to tournament winners, including the title "The winner of the Gold Medal and the Champion Golfer of the Year."
@@ -23,7 +23,7 @@ For returning users, the website aims to:
 - Ensure consistent performance and a user-friendly experience across all pages, maintaining familiarity while enhancing content where necessary.
 
 ### Design Decisions
-- The content is written in an accessible tone to appeal to newcomers to the sport while remaining engaging for returning users.
+- The content is written in an accessible tone to appeal to newcomers to the game while remaining engaging for returning users.
 - Visual elements, such as images of the championship trophy and historical figures, are included to enhance engagement.
 - A clear navigation structure ensures users can easily find the information they seek, whether they're new or returning visitors.
 - Future scalability is planned, with room to add sections or features catering to both first-time and repeat visitors.
