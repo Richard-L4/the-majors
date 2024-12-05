@@ -263,7 +263,7 @@ In the future I would like to add more pages, giving far more detail of the game
 ## Credits
 - During this project I used [Bootstrap](https://getbootstrap.com/) to provide several code blocks as a base template.
 - Images used for Championships and History pages have come from [getty images](https://www.gettyimages.co.uk/).
-- The images on the home page and enquiry page are from the St Andrews Official Page.[assets.eu](https://assets-eu-01.kc-usercontent.com/faf6531c-2af4-0128-bed9-496b32f5822b/e5b0f367-5d06-4%5B…%5DOld%20Course%20-%20Home%20End-min.jpg?w=2048&&fm=webp). 
+- The images on the home page and enquiry page are from the St Andrews Official Page.[assets.eu](https://assets-eu-01.kc-usercontent.com/faf6531c-2af4-0128-bed9-496b32f5822b/e5b0f367-5d06-4c19-b2f4-7845b9dd8c61/Old%20Course%20-%20Home%20End-min.jpg?w=2048&&fm=webp). 
 - A big thank you to my facitlaor and mentor for their help in this, my first project.
 
 [Back to the top](#the-majors)
